@@ -60,8 +60,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/jainamdamanawala/jainamdamanawala/output/snake.svg" alt="Snake animation" />
-
 ![snake gif](https://github.com/jainamdamanwala/jainamdamanwala/blob/output/github-contribution-grid-snake.gif)
 
 ###
