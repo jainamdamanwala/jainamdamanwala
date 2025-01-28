@@ -1,5 +1,5 @@
 # 👋 Welcome to My GitHub Profile!  
-### I'm **Jainam Damanwala**, a passionate **Full Stack Java Developer** and **Game Developer** based in **Union City, NJ**.
+### I'm **Jainam Damanwala**, a passionate **Full Stack Java Developer** and **Game Developer** based in **Plano, TX**.
 
 ---
 
