@@ -30,7 +30,7 @@ A thrilling space adventure where players explore hostile planets, defeat enemie
 - Dynamic level progression with enemy AI.  
 - Smooth joystick-based controls.  
 
-[**Explore Space-Mate Repository**](#)
+[**Explore Space-Mate Repository**](https://github.com/jainamdamanwala/SpaceMate)
 
 ---
 
@@ -41,7 +41,7 @@ An endless runner game featuring fast-paced action and dynamic tile generation.
 - Intuitive swipe-based controls for jumping and sliding.  
 - Immersive audio effects.  
 
-[**Explore Rookie Runner Repository**](#)
+[**Explore Rookie Runner Repository**](https://github.com/jainamdamanwala/RookieRunner)
 
 ---
 
@@ -52,7 +52,7 @@ A fast-paced multiplayer FPS with real-time networking using Photon PUN.
 - Kill feeds, leaderboards, and immersive maps.  
 - Seamless lobby system for matchmaking.  
 
-[**Explore FPS Multiplayer Shooter Repository**](#)
+[**Explore FPS Multiplayer Shooter Repository**](https://github.com/jainamdamanwala/FPSShooter)
 
 ---
 
@@ -63,7 +63,7 @@ Inspired by *Cut the Rope*, this game combines physics-based puzzles with candy 
 - Smooth level transitions and dynamic physics.  
 - A unique blend of problem-solving and fun.  
 
-[**Explore Candy Collector Repository**](#)
+[**Explore Candy Collector Repository**](https://github.com/jainamdamanwala/CandyCollector)
 
 ---
 
